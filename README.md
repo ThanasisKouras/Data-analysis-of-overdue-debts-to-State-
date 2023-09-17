@@ -41,13 +41,13 @@ Athens posseses half of the incidents
 
 #### Chart No5 : Bar Chart of Top 10 Areas of debt based on incidents
 Debt to DOY is much more common type of debt than debt to Customs
-![Bars Chart](charts-images/top-10-incident-areas-doy.png)
+![Bar Chart](charts-images/top-10-incident-areas-doy.png)
 
 #### Chart No6 : Pie Chart Total debt to State vs e-EFKA debt
-![Pies Chart](charts-images/![Bars Chart](charts-images/top-10-incident-areas-doy.png)
+![Pie Chart](charts-images/![Bars Chart](charts-images/top-10-incident-areas-doy.png)
 
 
 #### Chart No7, No8, No9 : Bar Charts of Top 10 Areas with debt incidents & amount of debt for each of 3 categories
-![Bar1 Chart](charts-images/![Bars Chart](charts-images/debt-to-customs-barchart.png)
-![Bar2 Chart](charts-images/![Bars Chart](charts-images/debt-to-DOY-barcharts.png)
-![Bar3 Chart](charts-images/![Bars Chart](charts-images/debt-to-eEfka-barcharts.png)
+![Bar Chart](charts-images/![Bars Chart](charts-images/debt-to-customs-barchart.png)
+![Bar Chart](charts-images/![Bars Chart](charts-images/debt-to-DOY-barcharts.png)
+![Bar Chart](charts-images/![Bars Chart](charts-images/debt-to-eEfka-barcharts.png)
