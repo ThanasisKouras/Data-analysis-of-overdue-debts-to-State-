@@ -25,29 +25,37 @@ Data was cleaned and formatted in English language. Continuing, it was joined wi
 
 ### Charts and Insights
 #### Chart No1 : Summary
+
 ![Summary Chart](charts-images/summary.png)
 
 #### Chart No2 : Map-Heatmap of Areas based on debt to Customs
 This can be done with the rest 2 categories, it also features a slider to check the incidents based on the amount of debt to Customs
+
 ![Map Chart](charts-images/map-heatmap.png)
 
 #### Chart No3 : Pie Chart of Based vs Collected debts
 Notice that less than half the amount of debt is not collected yet. Also, an Area filter helps to check how much of uncollected debt is per Area
+
 ![Pie Chart](charts-images/basic-vs-collected-debt-pie-chart.png)
 
 #### Chart No4 : Donut Chart of Top 5 Areas of Total debt
 Athens posseses half of the incidents
+
 ![Donut Chart](charts-images/top-5-areas-total-debt.png)
 
 #### Chart No5 : Bar Chart of Top 10 Areas of debt based on incidents
+
 Debt to DOY is much more common type of debt than debt to Customs
+
 ![Bar Chart](charts-images/top-10-incident-areas-doy.png)
 
 #### Chart No6 : Pie Chart Total debt to State vs e-EFKA debt
+
 ![Pie Chart](charts-images/top-10-incident-areas-doy.png)
 
 
 #### Chart No7, No8, No9 : Bar Charts of Top 10 Areas with debt incidents & amount of debt for each of 3 categories
+
 ![Bar Chart](charts-images/debt-to-customs-barchart.png)
 ![Bar Chart](charts-images/debt-to-DOY-barcharts.png)
 ![Bar Chart](charts-images/debt-to-eEfka-barcharts.png)
