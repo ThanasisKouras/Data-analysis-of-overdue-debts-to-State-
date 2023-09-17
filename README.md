@@ -24,6 +24,6 @@ Containing 12 columns:
 Data was cleaned and formatted in English language. Continuing, it was joined with the a dataset of local zipcodes and geographical information (longtitude/latitude).
 
 ### Plots and insights
-
+![Summary Chart](charts-images/summary.png)
 
 
