@@ -52,7 +52,7 @@ Debt to DOY is much more common type of debt than debt to Customs
 
 #### Chart No6 : Pie Chart Total debt to State vs e-EFKA debt
 
-![Pie Chart](charts-images/debt-to-total-state-vs-eEfka.png)
+![Pies Chart](charts-images/debt-to-total-state-vs-eEfka.png)
 
 
 #### Chart No7, No8, No9 : Bar Charts of Top 10 Areas with debt incidents & amount of debt for each of 3 categories
