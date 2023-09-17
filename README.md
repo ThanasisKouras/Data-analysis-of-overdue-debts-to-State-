@@ -23,7 +23,8 @@ Containing 12 columns:
 ### Data Preprocessing
 Data was cleaned and formatted in English language. Continuing, it was joined with the a dataset of local zipcodes and geographical information (longtitude/latitude).
 
-### Plots and insights
+### Charts and Insights
+#### Chart No1 : Summary
 ![Summary Chart](charts-images/summary.png)
 
 
