@@ -21,7 +21,8 @@ Containing 12 columns:
 - Total e-EFKA
 
 ### Data Preprocessing
-Data was cleaned and formatted in English language. Continuing, it was joined with the a dataset of local zipcodes and geographical information (longtitude/latitude).
+Data was cleaned using Python and formatted in English language. Continuing, it was joined with the a dataset of local zipcodes and geographical information (longtitude/latitude).
+Exported in csv format
 
 ### Charts and Insights
 #### Chart No1 : Summary
